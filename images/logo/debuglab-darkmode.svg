@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="250px" height="175px" viewBox="0 0 250 175" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L250 0L250 175L0 175L0 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="debuglab-Copy">
+    <g id="Rectangle">
+      <use stroke="none" fill="#FFFFFF" fill-opacity="0" xlink:href="#path_1" fill-rule="evenodd" />
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#6369FF" stroke-width="0" />
+      </g>
+    </g>
+    <g id="icons" transform="translate(23.400146 15.044434)">
+      <path d="M203.2 121.173L203.2 139.913L107.021 139.913L107.021 121.173L203.2 121.173L203.2 121.173Z" id="_" fill="#6369FF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L100.39 74.2126L100.39 76.6974L0 150.91L0 131.055L70.995 76.4858L70.995 74.4237L0 19.8547L0 0L0 0Z" id="Vector" fill="#6369FF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
