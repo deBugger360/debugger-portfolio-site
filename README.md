@@ -6,7 +6,7 @@ My portfolio website v1
 About my works and contact info
 
 ## Links to Site
-https://debugger360.github.io/debugger-portfolio-site/
+
 https://debugger-porfolio-site.netlify.app/
 
 
